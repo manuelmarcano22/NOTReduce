@@ -1,0 +1,29 @@
+# Mon 13:30:33 29-Apr-2019
+begin	aperture ScienceRedStandard 1 247.7694 1051.
+	image	ScienceRedStandard
+	aperture	1
+	beam	1
+	center	247.7694 1051.
+	low	-3.754446 -1050.
+	high	4.088626 1051.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	7
+		2.
+		3.
+		1.
+		2071.
+		-0.09820979
+		-0.1263313
+		-0.1823525
+

@@ -1,0 +1,1073 @@
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][200,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][200,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][370,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][370,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][360,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][360,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][350,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][350,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][340,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][340,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][330,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][330,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][320,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][320,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][310,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][310,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][300,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][300,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][290,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][290,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][280,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][280,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][270,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][270,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][260,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][260,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][250,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][250,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][240,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][240,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][230,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][230,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][220,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][220,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][210,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][210,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][190,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][190,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][180,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][180,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][170,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][170,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][160,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][160,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][150,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][150,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][140,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][140,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][130,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][130,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][120,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][120,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][110,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][110,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][100,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][100,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][90,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][90,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][80,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][80,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][70,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][70,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][60,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][60,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][50,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][50,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][40,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][40,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][30,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][30,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][20,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][20,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+
+# Mon 17:39:33 29-Apr-2019
+begin	identify ALCd240109.fits[1][10,*]
+	id	ALCd240109.fits[1]
+	task	identify
+	image	ALCd240109.fits[1][10,*]
+	units	Angstroms
+	features	4
+	        865.65   7281.349   7281.349   4.0 1 1 HeI
+	       1017.02   7065.188   7065.188   4.0 1 1 HeI
+	       1295.64     6678.2     6678.2   4.0 1 1 blend HeI 6678.149 with NeI 6678.2764
+	       1904.34   5875.618   5875.618   4.0 1 1 HeI
+	function spline3
+	order 1
+	sample *
+	naverage 1
+	niterate 0
+	low_reject 3.
+	high_reject 3.
+	grow 0.
+	coefficients	8
+		3.
+		1.
+		1.
+		2102.
+		2069.815077498526
+		1403.780027265047
+		923.8774528948023
+		526.4321109802121
+

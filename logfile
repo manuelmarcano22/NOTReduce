@@ -1,0 +1,49 @@
+
+Apr 29 12:08: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  calib/ALCd240424.fits[1]
+  calib/ALCd240415.fits[1]
+  calib/ALCd240421.fits[1]
+  calib/ALCd240418.fits[1]
+  calib/ALCd240414.fits[1]
+  calib/ALCd240417.fits[1]
+  calib/ALCd240423.fits[1]
+  calib/ALCd240419.fits[1]
+  calib/ALCd240422.fits[1]
+  calib/ALCd240420.fits[1]
+  calib/ALCd240416.fits[1]
+
+  Output image = MasterBias.fits, ncombine = 11
+resp0: Apr 29 12:10 Trim data section is [1:500,1:2102]
+resp0: Apr 29 12:10 Illumination image is illu0.fits with scale=1.
+resp1: Apr 29 12:10 Trim data section is [1:500,1:2102]
+resp1: Apr 29 12:10 Illumination image is illu1.fits with scale=1.
+resp2: Apr 29 12:10 Trim data section is [1:500,1:2102]
+resp2: Apr 29 12:10 Illumination image is illu2.fits with scale=1.
+resp3: Apr 29 12:10 Trim data section is [1:500,1:2102]
+resp3: Apr 29 12:10 Illumination image is illu3.fits with scale=1.
+resp4: Apr 29 12:10 Trim data section is [1:500,1:2102]
+resp4: Apr 29 12:10 Illumination image is illu4.fits with scale=1.
+ALCd240058.fits[1]: Apr 29 13:22 Trim data section is [1:500,1:2102]
+ALCd240058.fits[1]: Apr 29 13:22 Illumination image is IllumMaster.fits[1] with scale=1.
+ALCd240110[1]: Apr 29 13:23 Trim data section is [1:500,1:2102]
+ALCd240110[1]: Apr 29 13:23 Illumination image is IllumMaster.fits[1] with scale=1.
+
+AUTOIDENTIFY: NOAO/IRAF V2.16 mmarcano@tux Mon 17:06:49 29-Apr-2019
+  Spectrum                 # Found   Midpoint Dispersion        RMS
+  thar.fits[1][*,1051]           9    8746.99       4.19       3.42
+
+AUTOIDENTIFY: NOAO/IRAF V2.16 mmarcano@tux Mon 17:08:00 29-Apr-2019
+  Spectrum                 # Found   Midpoint Dispersion        RMS
+  thar.fits[1][*,1051]           9    8746.99       4.19       3.42
+
+AUTOIDENTIFY: NOAO/IRAF V2.16 mmarcano@tux Mon 17:31:36 29-Apr-2019
+  Spectrum                 # Found   Midpoint Dispersion        RMS
+  calib/ALCd240347.fits[1][10,*]          7   7138.516       0.29     0.0149
+
+AUTOIDENTIFY: NOAO/IRAF V2.16 mmarcano@tux Mon 17:32:28 29-Apr-2019
+  Spectrum                 # Found   Midpoint Dispersion        RMS
+  calib/ALCd240347.fits[1][10,*]          7   7138.516       0.29     0.0149
